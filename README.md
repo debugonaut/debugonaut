@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a1200,100:2d2000&height=200&text=AADESH%20KHANDE&fontSize=52&fontColor=d4a017&fontAlignY=45&desc=If%20you%20win%2C%20you%20live.%20If%20you%20lose%2C%20you%20die.%20If%20you%20don%27t%20ship%2C%20you%20can%27t%20win.&descAlignY=68&descSize=13&descColor=8b6914&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1400,100:2a2000&height=220&section=header&text=AADESH%20KHANDE&fontSize=56&fontColor=f5c518&fontAlignY=38&desc=Harder.%20Better.%20Faster.%20Stronger%20Code.&descAlignY=60&descSize=20&descColor=c9a227&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
 ```
-⚔️  SURVEY CORPS — ENGINEERING DIVISION  ⚔️
-   
-   "The only thing we're allowed to do
-    is believe that we won't regret
-    the choice we made."
-    
-   — Levi, on choosing a tech stack
+  ██████╗  █████╗ ███████╗████████╗    ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+  ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝    ██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+  ██║  ██║███████║█████╗     ██║       ██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+  ██║  ██║██╔══██║██╔══╝     ██║       ██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+  ██████╔╝██║  ██║██║        ██║       ██║     ╚██████╔╝██║ ╚████║██║  ██╗
+  ╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
 </div>
@@ -23,7 +22,7 @@
 <div align="center">
 
 <a href="https://github.com/debugonaut">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&size=20&pause=1200&color=D4A017&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Survey+Corps+%E2%80%94+Engineering+Division;Building+beyond+the+walls;Titan-slaying+bugs+since+day+one" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;HARDER.+BETTER.+FASTER.+STRONGER.;AI+%2B+REAL-TIME+SYSTEMS;WE+ARE+THE+ROBOTS" alt="Typing SVG" />
 </a>
 
 </div>
@@ -34,48 +33,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📜 Soldier's Dossier
+### 🤖 SYSTEM PROFILE
 
-```c
-typedef struct {
-  char  name[]     = "Aadesh Khande";
-  char  alias[]    = "debugonaut";
-  char  corps[]    = "Survey Corps (Engineering)";
-  char  rank[]     = "Full Stack Developer";
+```json
+{
+  "unit":       "DEBUGONAUT-01",
+  "operator":   "Aadesh Khande",
+  "model":      "Full Stack Developer",
+  "status":     "ONLINE",
   
-  char  gear[]     = "ODM — Omni-Directional Modules";
-  bool  wallsExist = false; // I go beyond them
-  
-  char  mission[]  = "Reclaim the code from Titans";
-  int   regrets    = 0;
-} Soldier;
+  "directives": [
+    "BUILD harder systems",
+    "SHIP better products", 
+    "RUN faster pipelines",
+    "WRITE stronger code"
+  ],
+
+  "helmet":     "ALWAYS ON",
+  "interview":  "NEVER REMOVES IT"
+}
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ ODM Gear (Tech Stack)
+### 🎛️ CONTROL PANEL (Tech Stack)
 
 <div align="center">
 
-**Blades (Frontend)**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**TRACK 1 — FRONTEND**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=f5c518)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=f5c518)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f5c518)
 
-**Gas Canisters (Backend)**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**TRACK 2 — BACKEND**
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=f5c518)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=f5c518)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=f5c518)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=f5c518)
 
-**Titan Intel (AI)**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
+**TRACK 3 — AI SYNTHESIS**
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=f5c518)
+![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=flat-square&logoColor=f5c518)
 
-**Walls (Infra)**
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+**TRACK 4 — LIVE PERFORMANCE**
+![Socket.io](https://img.shields.io/badge/Socket.io-0a0a0a?style=flat-square&logo=socketdotio&logoColor=f5c518)
+![Razorpay](https://img.shields.io/badge/Razorpay-0a0a0a?style=flat-square&logo=razorpay&logoColor=f5c518)
 
 </div>
 
@@ -85,10 +88,10 @@ typedef struct {
 
 ---
 
-## ⚔️ Survey Corps Missions (Projects)
+## 🎵 DISCOGRAPHY (Projects)
 
-> *"This world is cruel. It is also very beautiful."*
-> *— and so is a well-architected codebase.*
+> *"Work it harder, make it better, do it faster, makes us stronger."*
+> *— Daft Punk. Also my PR review comments.*
 
 <br/>
 
@@ -97,16 +100,20 @@ typedef struct {
 <td width="50%" valign="top">
 
 ### 💳 [Credex StackTally](https://github.com/debugonaut)
-**`Mission: Reclaim the Treasury`**
 
-> *Wall Maria fell. Your SaaS budget shouldn't.*
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 01
+HARDER — Financial Precision
+```
 
-Automated **AI subscription spend auditor** — precision-engineered like ODM gear.
+> *Integer-cents arithmetic. No rounding. No mercy.*
+
+Automated **AI subscription spend auditor** — your SaaS bills have been lying to you.
 
 - 🧠 **Claude Haiku** intelligent spend analysis
-- 🔢 **Integer-cents arithmetic** — zero rounding errors
+- 🔢 **Integer-cents arithmetic** — zero rounding errors, ever
 - ⚡ **Next.js 14** + **Supabase** architecture
-- 📊 Real-time subscription tracking
+- 📊 Real-time subscription dashboard
 
 `Next.js 14` `Supabase` `Claude Haiku` `TypeScript`
 
@@ -114,11 +121,15 @@ Automated **AI subscription spend auditor** — precision-engineered like ODM ge
 <td width="50%" valign="top">
 
 ### 🏫 [FixMyHostel](https://github.com/debugonaut)
-**`Mission: Breach Detection`**
 
-> *Colossal Titan broke the wall. This finds the cracks before it does.*
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 02
+BETTER — Vision Intelligence
+```
 
-Smart **campus grievance portal** with systemic failure detection.
+> *See the problem before it becomes a crisis.*
+
+Smart **campus grievance portal** with AI-powered pattern detection.
 
 - 👁️ **Claude 3.5 Sonnet Vision** photo auto-categorization
 - 🔍 **Cluster detector** for systemic building failures
@@ -133,14 +144,18 @@ Smart **campus grievance portal** with systemic failure detection.
 <td width="50%" valign="top">
 
 ### ⏪ [Rewind](https://github.com/debugonaut)
-**`Mission: Memory Preservation`**
 
-> *Ymir's curse: forgetting where you were. Rewind breaks it.*
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 03
+FASTER — Zero-Overhead Tracking
+```
+
+> *Memory-safe. Leak-free. Like the robots themselves.*
 
 **Cross-browser extension** that tracks video checkpoints across any streaming site.
 
 - 🔭 **MutationObservers** — DOM-agnostic detection
-- 🧹 **Memory-safe WeakSets** — no leaks
+- 🧹 **Memory-safe WeakSets** — zero leaks
 - 📊 **React dashboard** for checkpoint management
 - 🌐 Works on any streaming platform
 
@@ -150,9 +165,13 @@ Smart **campus grievance portal** with systemic failure detection.
 <td width="50%" valign="top">
 
 ### 🦴 [Theralign](https://github.com/debugonaut)
-**`Mission: Find the Medic`**
 
-> *Hange would've loved geospatial queries.*
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 04
+STRONGER — Cryptographic Trust
+```
+
+> *Verified. Secure. Geospatially precise.*
 
 **Physiotherapy discovery & booking SaaS** — find the right physio, fast.
 
@@ -169,11 +188,15 @@ Smart **campus grievance portal** with systemic failure detection.
 <td colspan="2" align="center">
 
 ### 🚨 [Sahayta](https://github.com/debugonaut)
-**`Mission: Titan Emergency Response`**
 
-> *When the walls fall, every second counts.*
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 05 — FINALE
+ALIVE — Real-time Emergency Systems
+```
 
-**Real-time emergency healthcare dispatch** — built for when it matters most.
+> *The most important track on the album. Built to keep people alive.*
+
+**Real-time emergency healthcare dispatch** — FFT pulse scanning in the browser.
 
 - 📡 **Socket.io** vital telemetry streaming
 - 💓 **In-browser contactless pulse scanner** via **FFT signal processing**
@@ -188,19 +211,19 @@ Smart **campus grievance portal** with systemic failure detection.
 
 ---
 
-## 📊 Battle Statistics
+## 📊 SYSTEM METRICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debugonaut&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=d4a017&icon_color=8b6914&text_color=888888&border_color=2d2000&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debugonaut&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f5c518&icon_color=c9a227&text_color=888888&border_color=2a2000&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugonaut&layout=compact&theme=dark&bg_color=0d0d0d&title_color=d4a017&text_color=888888&border_color=2d2000&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugonaut&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f5c518&text_color=888888&border_color=2a2000&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debugonaut&theme=dark&background=0d0d0d&ring=d4a017&fire=8b6914&currStreakLabel=d4a017&border=2d2000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debugonaut&theme=dark&background=0a0a0a&ring=f5c518&fire=c9a227&currStreakLabel=f5c518&border=2a2000" />
 
 </div>
 
@@ -214,19 +237,20 @@ Smart **campus grievance portal** with systemic failure detection.
 
 <div align="center">
 
-### ⚔️ Contact the Corps
+### 📡 TRANSMISSION CHANNELS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadesh-khande)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugonaut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f5c518?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/aadesh-khande)
+[![GitHub](https://img.shields.io/badge/GitHub-f5c518?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/debugonaut)
 
 <br/>
 
 ```
-⚔️  "Dedicate your heart."
-    — Survey Corps motto
-    — Also my git commit philosophy
+🤖  AROUND THE WORLD. AROUND THE WORLD.
+    AROUND THE WORLD. AROUND THE WORLD.
+    
+    (the code ships itself at this point)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d2000,50:1a1200,100:0d0d0d&height=80&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2000,50:1a1400,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 
 </div>
