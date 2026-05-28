@@ -25,6 +25,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;HARDER.+BETTER.+FASTER.+STRONGER.;AI+%2B+REAL-TIME+SYSTEMS;WE+ARE+THE+ROBOTS" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Daft Punk Hologram Grid -->
+<img src="https://media.giphy.com/media/3o7TKTDnUQH0uQ8ZyM/giphy.gif" width="320" alt="Daft Punk Glowing Helmets Hologram" style="border-radius: 8px; border: 2px solid #F5C518; margin: 15px 0; box-shadow: 0 0 15px rgba(245, 197, 24, 0.3);" />
+
 </div>
 
 <br/>
@@ -61,22 +66,22 @@
 
 <div align="center">
 
-**TRACK 1 — FRONTEND**
+**TRACK 1 — FRONTEND**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=f5c518)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=f5c518)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f5c518)
 
-**TRACK 2 — BACKEND**
+**TRACK 2 — BACKEND**  
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=f5c518)
 ![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=f5c518)
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=f5c518)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=f5c518)
 
-**TRACK 3 — AI SYNTHESIS**
+**TRACK 3 — AI SYNTHESIS**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=f5c518)
-![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=flat-square&logoColor=f5c518)
+![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=flat-square&logo=anthropic&logoColor=f5c518)
 
-**TRACK 4 — LIVE PERFORMANCE**
+**TRACK 4 — LIVE PERFORMANCE**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-0a0a0a?style=flat-square&logo=socketdotio&logoColor=f5c518)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0a0a0a?style=flat-square&logo=razorpay&logoColor=f5c518)
 
@@ -88,10 +93,10 @@
 
 ---
 
-## 🎵 DISCOGRAPHY (Projects)
+## 🎵 DISCOGRAPHY (Featured Projects)
 
-> *"Work it harder, make it better, do it faster, makes us stronger."*
-> *— Daft Punk. Also my PR review comments.*
+> *"Work it harder, make it better, do it faster, makes us stronger."*  
+> *— Daft Punk. Also my pipeline compiler directives.*
 
 <br/>
 
@@ -99,23 +104,21 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💳 [Credex StackTally](https://github.com/debugonaut)
+### 📊 [Credex StackTally](https://github.com/debugonaut)
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 01
 HARDER — Financial Precision
 ```
 
-> *Integer-cents arithmetic. No rounding. No mercy.*
+An automated AI subscription spend auditor built with Next.js 14, Supabase, and Claude Haiku utilizing strict integer-cents financial arithmetic to eliminate rounding errors.
 
-Automated **AI subscription spend auditor** — your SaaS bills have been lying to you.
+- 🧠 **Claude Haiku** semantic spend grouping & alternative mapping
+- 🔢 **Integer-cents math** — zero floating-point routing drift
+- ⚡ **Upstash Redis** sliding-window rate limiting for edge serverless functions
+- 📈 Dynamic OG image generation and dynamic RSC server widgets
 
-- 🧠 **Claude Haiku** intelligent spend analysis
-- 🔢 **Integer-cents arithmetic** — zero rounding errors, ever
-- ⚡ **Next.js 14** + **Supabase** architecture
-- 📊 Real-time subscription dashboard
-
-`Next.js 14` `Supabase` `Claude Haiku` `TypeScript`
+`Next.js 14` `Supabase` `TypeScript` `Claude Haiku` `Upstash Redis`
 
 </td>
 <td width="50%" valign="top">
@@ -127,16 +130,14 @@ Automated **AI subscription spend auditor** — your SaaS bills have been lying 
 BETTER — Vision Intelligence
 ```
 
-> *See the problem before it becomes a crisis.*
+A smart campus grievance portal built with React and Firebase featuring Claude 3.5 Sonnet Vision auto-categorization and an algorithmic cluster detector for systemic building failures.
 
-Smart **campus grievance portal** with AI-powered pattern detection.
+- 👁️ **Claude 3.5 Sonnet Vision** photo analysis & severity auto-tagging
+- 🎙️ **Dual-tier voice dictation** via native Web Speech API & MediaRecorder fallback
+- 🚨 **Systemic cluster detector** flagging high-frequency recurring spatial issues
+- ⏳ Enforced SLA countdown limits and staff-only secure notes
 
-- 👁️ **Claude 3.5 Sonnet Vision** photo auto-categorization
-- 🔍 **Cluster detector** for systemic building failures
-- 🔥 **React** + **Firebase** real-time sync
-- 📍 Location-aware complaint mapping
-
-`React` `Firebase` `Claude 3.5 Vision` `TypeScript`
+`React` `Firebase` `TypeScript` `Claude 3.5 Sonnet` `dnd-kit`
 
 </td>
 </tr>
@@ -147,67 +148,72 @@ Smart **campus grievance portal** with AI-powered pattern detection.
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 03
-FASTER — Zero-Overhead Tracking
+FASTER — Universal Playback Engine
 ```
 
-> *Memory-safe. Leak-free. Like the robots themselves.*
+A cross-browser extension and React dashboard that tracks video checkpoints across any streaming site using `MutationObservers` and memory-safe `WeakSets`.
 
-**Cross-browser extension** that tracks video checkpoints across any streaming site.
+- 🔭 SPA tracking using **MutationObservers** to bypass page-reload limitations
+- 🧹 **WeakSet garbage collection** preventing memory leaks over extended view cycles
+- 🔑 **Neural Sync**—frictionless passwordless handshake linking client extensions to web storage
+- 🎨 High-contrast spring-physics Neo-Brutalist design interface
 
-- 🔭 **MutationObservers** — DOM-agnostic detection
-- 🧹 **Memory-safe WeakSets** — zero leaks
-- 📊 **React dashboard** for checkpoint management
-- 🌐 Works on any streaming platform
-
-`Browser Extension` `React` `MutationObserver` `WeakSet`
+`Chrome Extension (MV3)` `Firefox Extension (MV2)` `React` `MutationObserver`
 
 </td>
 <td width="50%" valign="top">
 
-### 🦴 [Theralign](https://github.com/debugonaut)
+### 🩺 [Theralign](https://github.com/debugonaut)
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 04
-STRONGER — Cryptographic Trust
+STRONGER — Transactional SaaS
 ```
 
-> *Verified. Secure. Geospatially precise.*
+A physiotherapy discovery and booking SaaS platform featuring Mongoose geospatial proximity searches, OpenAI symptom triage, and cryptographically verified Razorpay checkouts.
 
-**Physiotherapy discovery & booking SaaS** — find the right physio, fast.
+- 🗺️ Proximity-based recommendation listing utilizing Mongoose **2dsphere indexes**
+- 💳 Secure payment flows checked via server-side **SHA256 HMAC validations**
+- 🤖 Modular symptom interpretation routing patients to correct healthcare tiers
+- 📅 Multi-role appointment dashboards for Patient, Doctor, and Admin layers
 
-- 🗺️ **Mongoose geospatial** proximity search
-- 🤖 **OpenAI symptom triage** before booking
-- 💳 **Cryptographically verified** Razorpay checkouts
-- 📅 Full scheduling system
-
-`Node.js` `MongoDB` `OpenAI` `Razorpay`
+`Node.js` `Express` `MongoDB` `Razorpay` `OpenAI API`
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 🚨 [Sahayta](https://github.com/debugonaut)
+### 🚑 [Sahayta](https://github.com/debugonaut)
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TRACK 05 — FINALE
-ALIVE — Real-time Emergency Systems
+ALIVE — Digital Signal Processing & Telemetry
 ```
 
-> *The most important track on the album. Built to keep people alive.*
+A real-time emergency healthcare dispatch platform featuring Socket.io vital telemetry and an in-browser contactless pulse scanner powered by FFT signal processing.
 
-**Real-time emergency healthcare dispatch** — FFT pulse scanning in the browser.
+- 💓 **Contactless vitals extraction (rPPG)** utilizing Canvas API frames parsed through Fast Fourier Transforms (FFT) and Butterworth filter models
+- 📡 Live, real-time vehicle GPS & pulse streaming to dispatch rooms via **Socket.io**
+- 🏥 Traffic-aware hospital pairing computations using Google Maps Distance Matrix API
+- 💾 Geospatial indexing managing active ambulance units and ICU asset capacities
 
-- 📡 **Socket.io** vital telemetry streaming
-- 💓 **In-browser contactless pulse scanner** via **FFT signal processing**
-- 🏥 Real-time dispatch coordination
-- 📱 Zero-install, runs in the browser
-
-`Socket.io` `FFT` `WebRTC` `Node.js` `Real-time`
+`React` `Node.js` `Socket.io` `FFT Signal Processing` `MongoDB` `Google Maps SDK`
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX DEFRAGMENTER
+
+<div align="center">
+
+<!-- GitHub contribution snake game gimmick -->
+<img src="https://raw.githubusercontent.com/debugonaut/debugonaut/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Game" width="100%" />
+
+</div>
 
 ---
 
@@ -216,7 +222,6 @@ ALIVE — Real-time Emergency Systems
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debugonaut&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f5c518&icon_color=c9a227&text_color=888888&border_color=2a2000&count_private=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugonaut&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f5c518&text_color=888888&border_color=2a2000&langs_count=8" />
 
 </div>
@@ -248,7 +253,7 @@ ALIVE — Real-time Emergency Systems
 🤖  AROUND THE WORLD. AROUND THE WORLD.
     AROUND THE WORLD. AROUND THE WORLD.
     
-    (the code ships itself at this point)
+    (the systems are operating within nominal thresholds)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2000,50:1a1400,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
